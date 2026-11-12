@@ -52,3 +52,7 @@ A full-stack web application built to manage employee information and organize e
 
 **Vyshnavi Ramagiri**
 Developed an Employee Management System using React, Spring Boot, and MySQL.
+
+- **GitHub:** [Ramagirivyshnavi](https://github.com/Ramagirivyshnavi)
+- **LinkedIn:** [Vyshnavi R](https://www.linkedin.com/in/vyshnavi-r-b22a65292/)
+- **Email:**   ramagirivyshnavi17@gmail.com
